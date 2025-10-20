@@ -1,0 +1,7 @@
+{
+  "name": "Bé Tập Đọc",
+  "description": "Một ứng dụng web vui nhộn và tương tác được thiết kế để giúp học sinh lớp một thực hành kỹ năng đọc của mình. Sử dụng Gemini API để tạo từ, đọc to và đưa ra phản hồi.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
